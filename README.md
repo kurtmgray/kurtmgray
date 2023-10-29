@@ -1,4 +1,4 @@
-## Hi! Welcome to my Github, I'm Kurt
+## Hi! Welcome to my Github, I'm Kurt.
 
 ### About Me
 
