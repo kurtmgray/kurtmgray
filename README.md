@@ -29,6 +29,27 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Portfolio Projects
+
+- **Brain Thoughts**
+  - [Source Code (Frontend)](https://github.com/kurtmgray/blog-react)
+  - [Source Code (Backend API)](https://github.com/kurtmgray/blog-api)
+  - [Live Demo](https://blog.kurtgray.dev/)
+  
+- **Cook Sys Project Board**
+  - [Source Code](https://github.com/kurtmgray/project-board)
+  
+- **Social Media API (Twitter-like)**
+  - [Source Code](https://github.com/kurtmgray/twitter-api)
+  
+- **Pantry**
+  - [Source Code](https://github.com/kurtmgray/pantry)
+  
+- **Who’s Who?**
+  - [Source Code](https://github.com/kurtmgray/whos-who.git)
+  
+- **Beat Boss (Metronome)**
+  - [Source Code](https://github.com/kurtmgray/metronome-react)
 
 ### Contact links
 
