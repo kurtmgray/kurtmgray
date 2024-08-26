@@ -2,6 +2,7 @@
 
 ### About Me
 
+- 🎓 FedEx Ground Internation Full Stack Developer
 - 🎓 Cook Systems Fast Track'd Full Stack Development Program Graduate
 - 🎓 The Odin Project Full Stack Development Curriculum
 - 🎼 Former Music Educator, Marching Arts Visual Designer, Jazz Saxophonist
