@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 🎓 FedEx Ground Internation Full Stack Developer
+- 🎓 FedEx Ground International Full Stack Developer
 - 🎓 Cook Systems Fast Track'd Full Stack Development Program Graduate
 - 🎓 The Odin Project Full Stack Development Curriculum
 - 🎼 Former Music Educator, Marching Arts Visual Designer, Jazz Saxophonist
@@ -32,6 +32,10 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Portfolio Projects
+
+- **Personal Portfolio & Resume**
+  - [Source Code](https://github.com/kurtmgray/portfolio)  
+  - [Live Site](https://kurtgray.dev)  
 
 - **Brain Thoughts**
   - [Source Code (Frontend)](https://github.com/kurtmgray/blog-react)
