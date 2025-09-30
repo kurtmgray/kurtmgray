@@ -38,12 +38,12 @@
 
 - **Personal Portfolio & Resume**
   - [Source Code](https://github.com/kurtmgray/portfolio)  
-  - [Live Site](https://kurtgray.dev)  
+  - [Live Site](https://kurtgraydev-portfolio-952b00e23ad6.herokuapp.com)  
 
 - **Brain Thoughts**
   - [Source Code (Frontend)](https://github.com/kurtmgray/blog-react)
   - [Source Code (Backend API)](https://github.com/kurtmgray/blog-api)
-  - [Live Demo](https://blog.kurtgray.dev/)
+  - [Live Demo](https://morning-meadow-95658.herokuapp.com)
   
 - **Cook Sys Project Board**
   - [Source Code](https://github.com/kurtmgray/project-board)
