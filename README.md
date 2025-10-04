@@ -19,6 +19,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -42,8 +43,9 @@
 
 - **Brain Thoughts**
   - [Source Code (Frontend)](https://github.com/kurtmgray/blog-react)
-  - [Source Code (Backend API)](https://github.com/kurtmgray/blog-api)
-  - [Live Demo](https://morning-meadow-95658.herokuapp.com)
+  - [Source Code (API - Node)](https://github.com/kurtmgray/blog-api)
+  - [Source Code (API - Golang)](https://github.com/kurtmgray/blog-api-go)
+  - [Live Demo](https://morning-meadow-95658.herokuapp.com) - _running Go backend_
   
 - **Cook Sys Project Board**
   - [Source Code](https://github.com/kurtmgray/project-board)
