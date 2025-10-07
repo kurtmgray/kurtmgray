@@ -48,7 +48,7 @@
   - [Live Demo](https://morning-meadow-95658.herokuapp.com) - _running Go backend_
  
 - **IVS Demo**
-  - [Source Code](https://github.com/kurtmgray/ive-demo)
+  - [Source Code](https://github.com/kurtmgray/ivs-demo)
     
 - **Cook Sys Project Board**
   - [Source Code](https://github.com/kurtmgray/project-board)
