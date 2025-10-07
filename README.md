@@ -46,7 +46,10 @@
   - [Source Code (API - Node)](https://github.com/kurtmgray/blog-api)
   - [Source Code (API - Golang)](https://github.com/kurtmgray/blog-api-go)
   - [Live Demo](https://morning-meadow-95658.herokuapp.com) - _running Go backend_
-  
+ 
+- **IVS Demo**
+  - [Source Code](https://github.com/kurtmgray/ive-demo)
+    
 - **Cook Sys Project Board**
   - [Source Code](https://github.com/kurtmgray/project-board)
   
