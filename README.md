@@ -44,12 +44,13 @@
 - **Brain Thoughts**
   - [Source Code (Frontend)](https://github.com/kurtmgray/blog-react)
   - [Source Code (API - Node)](https://github.com/kurtmgray/blog-api)
-  - [Source Code (API - Golang)](https://github.com/kurtmgray/blog-api-go)
+  - [Source Code (API - Go)](https://github.com/kurtmgray/blog-api-go)
   - [Live Demo](https://morning-meadow-95658.herokuapp.com) - _running Go backend_
  
-- **IVS Demo**
+- **AWS Interactive Video Service Demo**
   - [Source Code](https://github.com/kurtmgray/ivs-demo)
-    
+  - [Live Demo](https://ivs-demo-kmg-20feb1d09f04.herokuapp.com/)
+  
 - **Cook Sys Project Board**
   - [Source Code](https://github.com/kurtmgray/project-board)
   
